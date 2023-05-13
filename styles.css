@@ -401,7 +401,7 @@ nav .fas {
 }
 #preloader {
   background: #080808 url(images/preloader.gif) no-repeat center center;
-  background-size: 10%;
+  background-size: 15%;
   height: 100vh;
   width: 100%;
   position: fixed;
