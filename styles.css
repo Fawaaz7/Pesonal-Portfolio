@@ -269,6 +269,9 @@ nav ul li a:hover::after {
   margin-right: 20px;
   font-size: 25px;
 }
+.phno{
+  color: #fff;
+}
 .social-icons {
   margin-top: 30px;
 }
