@@ -84,7 +84,7 @@ nav ul li a:hover::after {
 }
 .about-col-1 img {
   width: 100%;
-  border-radius: 15px;
+  clip-path: circle();
 }
 .about-col-2 {
   flex-basis: 60%;
@@ -237,7 +237,7 @@ nav ul li a:hover::after {
 .work:hover .layer {
   height: 100%;
 }
-.yt-container {
+/* .yt-container {
   max-width: 1000px;
   margin: 0 auto;
   padding-top: 5%;
@@ -253,7 +253,7 @@ nav ul li a:hover::after {
   position: absolute;
   width: 100%;
   height: 100%;
-}
+} */
 /* --------contact -----------*/
 .contact-left {
   flex-basis: 35%;
